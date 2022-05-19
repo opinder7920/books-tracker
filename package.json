@@ -1,0 +1,24 @@
+{
+  "name": "books-tracker",
+  "version": "1.0.0",
+  "description": "A web app to track record of books from google api.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opinder7920/books-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opinder7920/books-tracker/issues"
+  },
+  "homepage": "https://github.com/opinder7920/books-tracker#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
